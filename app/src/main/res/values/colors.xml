@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="blanco">#FFFFFFFF</color>
-    <color name="negro">#FF000000</color>
-    <color name="amarillo">#FFFF00</color>
-    <color name="rojo">#F00</color>
-    <color name="azul">#0000FF</color>
-    <color name="rosado_pastel">#FFB4B0</color>
-    <color name="azul_pastel">#B3EBF2</color>
-    <color name="naranja_pastel">#FFC067</color>
-    <color name="morado_pastel">#C3B1E1</color>
 
 
 </resources>
